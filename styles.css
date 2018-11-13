@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+}
+.artist {
+    font-family: 'Black And White Picture', sans-serif;
+    font-size: 60px;
+    background-color:white;
+}
+h1 {
+    font-family: 'Black And White Picture', sans-serif;
+    font-family: 'Kumar One Outline', cursive;
+    font-size: 80px;
+    color: Black;
+    background-color: white;
+}
+.movieimg {
+    width:600px;
+}
+.gameimg {
+    width:600px;
+}
+.cartoonimg {
+    width: 600px;
+}
+.artisttag {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 50px;
+}
+.game {
+    font-family: 'Fredericka the Great', cursive;
+    font-family: 'Righteous', cursive;
+    font-size: 50px;
+    background-color: white;
+}
+.gametag {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 45px;
+}
+body {
+    background-image: url("https://cdn.agriland.ie/uploads/2015/06/shutterstock_77250238.jpg");
+}
+.movie {
+    font-family: 'Federant', cursive;
+    font-size: 70px;
+    background-color: white;
+}
+.movietag {
+    font-family: 'Permanent Marker', cursive;
+    font-size:50px;
+}
+.cartoon {
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Courgette', cursive;
+    font-size: 55px;
+    background-color: white;
+}
+.cartoontag {
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+}
